@@ -1,0 +1,10 @@
+[2m3:43:12 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: [33mDuplicate "style" attribute in JSX element[33m
+258|                    }}
+259|                    transition={{ duration: 0.3 }}
+260|                    style={{ transformOrigin: 'top' }} />
+   |                    ^
+261|                  
+262|  
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Vantrigon Tech/Vantrigon/src/app/components/Portfolio.tsx[39m

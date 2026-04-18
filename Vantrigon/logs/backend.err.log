@@ -1,0 +1,16 @@
+INFO:     Started server process [63784]
+INFO:     Waiting for application startup.
+2026-04-18 02:59:08,444 | INFO | vantrigon | Vantrigon Tech API started in development mode
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started server process [32872]
+INFO:     Waiting for application startup.
+2026-04-18 03:02:41,140 | INFO | vantrigon | Vantrigon Tech API started in development mode
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+^CINFO:     Started server process [64724]
+INFO:     Waiting for application startup.
+2026-04-18 03:04:27,731 | INFO | vantrigon | Vantrigon Tech API started in development mode
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+^C
